@@ -1,7 +1,8 @@
 {
   "name": "kladova--frontend",
+  "author": "Dmytro Kostyshyn <kernel.panic0101@gmail.com>",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
