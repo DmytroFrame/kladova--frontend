@@ -23,12 +23,12 @@ $color4: #EEEEEE;
             padding-left: 15px;
             height: 70px;
         }
-
-        ul {
+        
+        nav {
             padding-left: 40px;
             margin-right: auto;
 
-            li {
+            ul li  {
                 display: inline;
                 margin-right: 30px;
     
@@ -56,7 +56,6 @@ $color4: #EEEEEE;
                 font-size: 18px;
                 font-weight: bold;
             }
-
         }
 
         .navbar__user_icon {
