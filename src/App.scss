@@ -5,4 +5,14 @@ $color4: #EEEEEE;
 
 body {
     background-color: $color1;
+    color: $color4;
+}
+
+::-webkit-scrollbar {
+    background-color: $color1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: $color2;
+    border-radius: 10px;
 }
